@@ -1,0 +1,16 @@
+01 - escreva um algoritimo usando linguagem natural que calcule a soma de dois números inteiros.
+
+    1. leia / pegue os valores desses dois números;
+    2. o resultado será a soma desses dois números;
+
+02 - escreva um algoritimo usando linguagem natural que calcule a soma de dois números inteiros e mostre o resultado.
+
+    1. leia / pegue os valores desses dois números;
+    2. o resultado será a soma desses dois números;
+    3. mostre o resultado dsta soma;
+
+03 - escreva um algoritimo usando linguagem natural que leia os dois números inteiros "a" e "b", calcule a soma destes números e mostre o resultado.
+
+    1. leia os valores "a" e "b";
+    2. o resultado será a soma de "a" mais "b";
+    3. mostre o resultado dsta soma;
